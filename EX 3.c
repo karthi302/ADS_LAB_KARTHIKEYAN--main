@@ -90,20 +90,20 @@ int main()
 
 
 
---OUTPUT: 
-Enter number of names: 5 
-Enter 5 names: 
-Tamizh 
-Rahul 
-Giri 
-Sainath 
-Kumaran 
-Names in descending order: 
-Tamizh 
-Sainath 
-Rahul 
-Kumaran 
-Giri
+// --OUTPUT: 
+// Enter number of names: 5 
+// Enter 5 names: 
+// Tamizh 
+// Rahul 
+// Giri 
+// Sainath 
+// Kumaran 
+// Names in descending order: 
+// Tamizh 
+// Sainath 
+// Rahul 
+// Kumaran 
+// Giri
 
 
 

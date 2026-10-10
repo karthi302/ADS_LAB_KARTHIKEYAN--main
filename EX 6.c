@@ -132,7 +132,7 @@ int main()
 }
 
 
---OUTPUT
-Enter number of nodes: 5
-Enter 5 values: 20 10 60 50 30
-Inorder Traversal (Balanced Tree): 10 20 30 50 60
+// --OUTPUT
+// Enter number of nodes: 5
+// Enter 5 values: 20 10 60 50 30
+// Inorder Traversal (Balanced Tree): 10 20 30 50 60

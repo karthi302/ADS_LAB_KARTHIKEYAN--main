@@ -1,0 +1,6 @@
+# C compiler outputs
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk

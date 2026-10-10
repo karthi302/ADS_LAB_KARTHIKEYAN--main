@@ -99,23 +99,26 @@ int main()
     }
     return 0;
 }
---OUTPUT
-1. Insert
-2. Display
-3. Get Min
-4. Exit
-Enter choice: 1
-Enter key: 25
 
-Enter choice: 1
-Enter key: 7
 
-Enter choice: 1
-Enter key: 40
 
-Enter choice: 2
-Root List: 25 7 40
+// --OUTPUT
+// 1. Insert
+// 2. Display
+// 3. Get Min
+// 4. Exit
+// Enter choice: 1
+// Enter key: 25
 
-Enter choice: 3
-Minimum = 7
-Enter choice: 4
+// Enter choice: 1
+// Enter key: 7
+
+// Enter choice: 1
+// Enter key: 40
+
+// Enter choice: 2
+// Root List: 25 7 40
+
+// Enter choice: 3
+// Minimum = 7
+// Enter choice: 4

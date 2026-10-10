@@ -77,17 +77,17 @@ int main()
 }
 
 
---OUTPUT
-Enter number of vertices: 4
-Enter number of edges: 5
-Enter edges (u v w):
-0 1 2
-0 2 3
-1 2 1
-1 3 4
-2 3 5
+// --OUTPUT
+// Enter number of vertices: 4
+// Enter number of edges: 5
+// Enter edges (u v w):
+// 0 1 2
+// 0 2 3
+// 1 2 1
+// 1 3 4
+// 2 3 5
 
-Edges in MST:
-1-2 (1)
-0-1 (2)
-1-3 (4)
+// Edges in MST:
+// 1-2 (1)
+// 0-1 (2)
+// 1-3 (4)

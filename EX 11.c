@@ -121,10 +121,10 @@ int main()
 }
 
 
---OUTPUT
-Enter number of keys: 6
-Enter the keys:
-10 20 5 15 25 30
+// --OUTPUT
+// Enter number of keys: 6
+// Enter the keys:
+// 10 20 5 15 25 30
 
-B+ Tree Leaf Nodes:
-[ 5 10 ] [ 15 20 25 30 ]
+// B+ Tree Leaf Nodes:
+// [ 5 10 ] [ 15 20 25 30 ]

@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 // Function to swap two elements
 void swap(int *a, int *b)
@@ -51,7 +52,16 @@ int main()
     printf("Enter number of elements: ");
     scanf("%d", &n);
 
-    int arr[n];
+    if (n <= 0)
+    {
+        return 1;
+    }
+
+    int *arr = malloc((size_t)n * sizeof *arr);
+    if (arr == NULL)
+    {
+        return 1;
+    }
 
     printf("Enter %d integers: ", n);
 
@@ -69,6 +79,8 @@ int main()
         printf("%d ", arr[i]);
     }
 
+    free(arr);
+
     return 0;
 }
 
@@ -76,7 +88,7 @@ int main()
 
 
 
---OUTPUT: 
-Enter number of elements: 5 
-Enter 5 integers: 8 5 1 3 6 
-Sorted array in ascending order: 1 3 5 6 8
+// --OUTPUT: 
+// Enter number of elements: 5 
+// Enter 5 integers: 8 5 1 3 6 
+// Sorted array in ascending order: 1 3 5 6 8

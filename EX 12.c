@@ -73,16 +73,16 @@ int main()
 }
 
 
-OUTPUT
-Enter number of elements: 4
-Enter the elements:
-apple
-mango
-orange
-banana
+// OUTPUT
+// Enter number of elements: 4
+// Enter the elements:
+// apple
+// mango
+// orange
+// banana
 
-Bloom Filter:
-0 1 0 1 0 0 1 0 1 0 1 0 0 0 1 0 0 1 0 0
+// Bloom Filter:
+// 0 1 0 1 0 0 1 0 1 0 1 0 0 0 1 0 0 1 0 0
 
-Enter element to search: mango
-mango may be present in the set.
+// Enter element to search: mango
+// mango may be present in the set.

@@ -55,13 +55,13 @@ int main()
 }
 
 
---OUTPUT
-Enter number of vertices: 5
-Enter adjacency matrix:
-0 1 1 0 0
-1 0 0 1 0
-1 0 0 0 1
-0 1 0 0 1
-0 0 1 1 0
-Enter start vertex (0-4): 0
-BFS Traversal: 0 1 2 3 4
+// --OUTPUT
+// Enter number of vertices: 5
+// Enter adjacency matrix:
+// 0 1 1 0 0
+// 1 0 0 1 0
+// 1 0 0 0 1
+// 0 1 0 0 1
+// 0 0 1 1 0
+// Enter start vertex (0-4): 0
+// BFS Traversal: 0 1 2 3 4

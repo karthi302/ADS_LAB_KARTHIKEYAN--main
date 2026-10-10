@@ -65,17 +65,17 @@ int main()
 
 
 
---OUTPUT
-Enter number of vertices: 4
-Enter adjacency matrix:
-0 2 3 0
-2 0 1 4
-3 1 0 5
-0 4 5 0
-Enter start vertex: 0
+// --OUTPUT
+// Enter number of vertices: 4
+// Enter adjacency matrix:
+// 0 2 3 0
+// 2 0 1 4
+// 3 1 0 5
+// 0 4 5 0
+// Enter start vertex: 0
 
-Shortest distances from 0:
-0 -> 0 : 0
-0 -> 1 : 2
-0 -> 2 : 3
-0 -> 3 : 6
+// Shortest distances from 0:
+// 0 -> 0 : 0
+// 0 -> 1 : 2
+// 0 -> 2 : 3
+// 0 -> 3 : 6
